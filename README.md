@@ -37,13 +37,6 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 ---
 
-## 📈 GitHub Stats
-
-![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayanthSrinivas06&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)  
