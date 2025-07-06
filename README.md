@@ -1,8 +1,6 @@
-# 👋 Hey there, I'm Jayanth Srinivas Bommisetty!
+![Banner](./banner.png)
 
 🎯 Python Developer | AI & ML Enthusiast | Deep Learning Explorer | Computer Vision & LLM Researcher
-
-![Banner](https://github.com/JayanthSrinivas06/JayanthSrinivas06/banner.png)
 
 ## 👨‍💻 About Me
 
