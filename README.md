@@ -1,29 +1,56 @@
-# Hi, I'm Jayanth Srinivas 👋
+# 👋 Hey there, I'm Jayanth Srinivas Bommisetty!
 
-🚀 Aspiring AI/ML Developer | Python Enthusiast | Tech Innovator
+🎯 Python Developer | AI & ML Enthusiast | Deep Learning Explorer | Computer Vision & LLM Researcher
 
-## 🧠 About Me
-- 🎓 Final-year student passionate about AI and Deep Learning
-- 🧑‍💻 Building intelligent systems and creative tools
-- 🌐 Love open-source and community-driven projects
+---
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-... *(Add more as per your stack)*
+## 👨‍💻 About Me
 
-## 📊 GitHub Stats
+I'm a tech-driven developer passionate about building smart systems that solve real-world problems.  
+Currently diving deep into the world of **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Large Language Models**.  
+From enhancing images using deep nets to training models for sarcasm detection, I love experimenting with intelligent code.
+
+I believe in learning by building, and every project I work on reflects my dedication to exploring what's next in tech.
+
+---
+
+## 🛠️ My Skills
+
+- **Programming Languages:** Python, Java, C, JavaScript, HTML, CSS, R, MySQL  
+- **Frameworks & Tools:** TensorFlow, PyTorch, Keras, OpenCV, Flask, FastAPI, Scikit-learn, Bootstrap  
+- **Technologies:**  
+  - 👁️‍🗨️ Computer Vision  
+  - 🤖 Machine Learning  
+  - 🧠 Deep Learning  
+  - 💬 Natural Language Processing  
+  - 🧾 LLMs and Prompt Engineering  
+- **Other Skills:** Git & GitHub, REST APIs, Data Visualization, Problem Solving
+
+---
+
+## 💡 Interests
+
+- 🧪 Researching state-of-the-art models in AI & LLMs  
+- 🧠 Training models from scratch (no pre-trained shortcuts!)  
+- 🛰️ Working on Computer Vision tasks like classification, object detection  
+- 🤖 Building virtual assistants and smart automation tools  
+- 🔍 Exploring the math and logic behind deep networks  
+- 🛠️ Making tools that think, learn, and adapt
+
+---
+
+## 📈 GitHub Stats
+
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayanthSrinivas06&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=radical)
 
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=radical)
+---
 
-## 🏆 Achievements
-- 🥇 Built NIELS - a Virtual AI Assistant
-- 🛰️ Created SDSS Galaxy Classifier with CNN & VGG
-- 📈 Achieved 99.8% accuracy in Sarcasm Detection without pre-trained models
+## 🌐 Let's Connect
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanthsrinivas06)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)  
+📬 Always open to collaboration, research, and learning opportunities!
+
+---
+
+⭐ _"Code is my canvas. Intelligence is my brush."_  
