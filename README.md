@@ -22,7 +22,7 @@ I believe in learning by building, and every project I work on reflects my dedic
   - 🧠 Deep Learning  
   - 💬 Natural Language Processing  
   - 🧾 LLMs and Prompt Engineering  
-- **Other Skills:** Git & GitHub, REST APIs, Data Visualization, Problem Solving
+- **Other Skills:** AWS, Git & GitHub, REST APIs, Data Visualization, Problem Solving
 
 ---
 
