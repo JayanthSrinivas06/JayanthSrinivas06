@@ -131,7 +131,7 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
 
