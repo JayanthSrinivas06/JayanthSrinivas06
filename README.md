@@ -121,12 +121,6 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JayanthSrinivas06&theme=dark)](https://github.com/JayanthSrinivas06)
 
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayanthSrinivas06&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=tokyonight)
-
 </div>
 
 ---
