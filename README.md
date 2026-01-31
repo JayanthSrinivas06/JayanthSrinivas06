@@ -131,7 +131,11 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 <div align="center">
 
-![Snake animation](https://github.com/JayanthSrinivas06/JayanthSrinivas06/raw/output/snake.svg?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
