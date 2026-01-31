@@ -4,6 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)
 
+![Discord](https://img.shields.io/badge/Discord-jayanthsrinivasbommisetty_03323-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
 </div>
 
 ---
@@ -131,3 +134,6 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
+</div>
+
+</div>
