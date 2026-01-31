@@ -1,8 +1,6 @@
 <div align="center">
 
-![Banner](./banner.png)
-
-### 🎯 Python Developer | AI & ML Enthusiast | Deep Learning Explorer | Computer Vision & LLM Researcher
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🎯+Python+Developer;🤖+AI+%26+ML+Enthusiast;🧠+Deep+Learning+Explorer;👁️+Computer+Vision+Researcher;🧾+LLM+Expert)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
@@ -13,10 +11,7 @@
 
 ## 👨‍💻 About Me
 
-```
-I'm a tech-driven developer passionate about building smart systems
-that solve real-world problems.
-```
+I'm a tech-driven developer passionate about building smart systems that solve real-world problems.
 
 Currently diving deep into the world of **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Large Language Models**.
 
@@ -27,6 +22,12 @@ From enhancing images using deep nets to training models for sarcasm detection, 
 ---
 
 ## 🛠️ Technical Arsenal
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/skills-expanding-brightgreen?style=for-the-badge)
+
+</div>
 
 <table>
 <tr>
@@ -84,6 +85,10 @@ From enhancing images using deep nets to training models for sarcasm detection, 
 
 <div align="center">
 
+[![Animated SVG](https://img.shields.io/badge/⚡-Passionate%20About%20AI%20%26%20ML-ff6b6b?style=for-the-badge)](/)
+
+</div>
+
 | 🧪 Research | 🧠 Training | 🛰️ Vision | 🤖 Automation |
 |:---:|:---:|:---:|:---:|
 | Exploring state-of-the-art AI & LLM models | Training models from scratch (no pre-trained shortcuts!) | Computer Vision tasks: classification, object detection | Building virtual assistants and smart tools |
@@ -102,6 +107,11 @@ From enhancing images using deep nets to training models for sarcasm detection, 
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)
 
+<div style="display: flex; gap: 10px; justify-content: center; margin: 15px 0;">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-brightgreen?style=flat-square&color=31A24C" />
+  <img src="https://img.shields.io/badge/Learning-LLMs%20%26%20Deep%20Learning-blue?style=flat-square&color=0078D4" />
+</div>
+
 📬 **Always open to collaboration, research, and learning opportunities!**
 
 ---
@@ -112,5 +122,13 @@ From enhancing images using deep nets to training models for sarcasm detection, 
 ---
 
 ### ⭐ _"Code is my canvas. Intelligence is my brush."_
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 </div>
