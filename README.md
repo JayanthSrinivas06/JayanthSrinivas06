@@ -17,7 +17,7 @@ Currently diving deep into the world of **Artificial Intelligence**, **Machine L
 
 From enhancing images using deep nets to training models for sarcasm detection, I love experimenting with intelligent code.
 
-> I believe in learning by building, and every project I work on reflects my dedication to exploring what's next in tech.
+I believe in learning by building, and every project I work on reflects my dedication to exploring what's next in tech.
 
 ---
 
