@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🎯+Python+Developer;🤖+AI+%26+ML+Enthusiast;🧠+Deep+Learning+Explorer;👁️+Computer+Vision+Researcher;🧾+LLM+Expert)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=JayanthSrinivas06&color=00D9FF&style=for-the-badge)
 
 </div>
 
@@ -116,8 +116,15 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=JayanthSrinivas06&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+### 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayanthSrinivas06&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true&include_all_commits=true&line_height=27)](https://github.com/JayanthSrinivas06)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=ocean_dark&hide_border=true&card_width=445)](https://github.com/JayanthSrinivas06)
+
+</div>
 
 ---
 
@@ -127,7 +134,7 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 <div align="center">
 
-![Snake animation](https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JayanthSrinivas06/JayanthSrinivas06/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
