@@ -116,8 +116,8 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=JayanthSrinivas06&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanthSrinivas06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 
 ---
 
