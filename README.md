@@ -131,7 +131,7 @@ I believe in learning by building, and every project I work on reflects my dedic
 
 <div align="center">
 
-![Snake animation](https://github.com/JayanthSrinivas06/JayanthSrinivas06/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JayanthSrinivas06/JayanthSrinivas06/raw/output/snake.svg?raw=true)
 
 </div>
 
