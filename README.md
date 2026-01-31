@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🎯+Python+Developer;🤖+AI+%26+ML+Enthusiast;🧠+Deep+Learning+Explorer;👁️+Computer+Vision+Researcher;🧾+LLM+Expert)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-srinivas-b-0b7911269/)
-![Profile Views](https://komarev.com/ghpvc/?username=JayanthSrinivas06&color=00D9FF&style=for-the-badge)
 
 </div>
 
